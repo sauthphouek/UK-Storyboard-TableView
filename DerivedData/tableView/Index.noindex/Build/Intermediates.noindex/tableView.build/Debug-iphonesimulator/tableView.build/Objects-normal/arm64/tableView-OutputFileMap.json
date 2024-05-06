@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/Objects-normal/arm64/tableView-master.d",
+    "diagnostics" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/Objects-normal/arm64/tableView-master.dia",
+    "emit-module-dependencies" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/Objects-normal/arm64/tableView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/Objects-normal/arm64/tableView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/Objects-normal/arm64/tableView-master.swiftdeps"
+  },
+  "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/tableView.build/Debug-iphonesimulator/tableView.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/sauth.p/Desktop/tableView/tableView/AddNoteViewController.swift" : {
+
+  },
+  "/Users/sauth.p/Desktop/tableView/tableView/AppDelegate.swift" : {
+
+  },
+  "/Users/sauth.p/Desktop/tableView/tableView/model/note_model.swift" : {
+
+  },
+  "/Users/sauth.p/Desktop/tableView/tableView/SceneDelegate.swift" : {
+
+  },
+  "/Users/sauth.p/Desktop/tableView/tableView/ViewController.swift" : {
+
+  }
+}

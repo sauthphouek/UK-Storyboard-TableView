@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7b16d4513cc55dbc426a4e8f0035a4875007c509593632159d1db39f94057672"
+    }
+  ],
+  "containerPath" : "/Users/sauth.p/Desktop/tableView/tableView.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/sauth.p/Desktop/tableView/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Build/Products",
+      "pchPath" : "/Users/sauth.p/Desktop/tableView/DerivedData/tableView/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
